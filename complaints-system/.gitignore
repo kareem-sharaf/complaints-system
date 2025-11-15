@@ -1,0 +1,12 @@
+target/
+.idea/
+.project
+.classpath
+.settings/
+.vscode/
+*.iml
+*.log
+*.tmp
+.DS_Store
+hs_err_pid*
+
